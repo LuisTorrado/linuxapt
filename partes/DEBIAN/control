@@ -1,0 +1,9 @@
+Package: partes
+Priority: optional
+Section: misc
+Maintainer: Luis Merino
+Architecture: all
+Version: 1.0
+Depends:
+Description: Aplicación Java para control de Partes
+

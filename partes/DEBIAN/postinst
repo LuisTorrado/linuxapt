@@ -1,0 +1,1 @@
+ sudo ln -s /opt/partes/partes /usr/local/bin/partes
