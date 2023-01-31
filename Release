@@ -1,0 +1,13 @@
+Package: partes
+Version: 1.0
+Architecture: all
+Maintainer: Luis Merino
+Filename: ./partes.deb
+Size: 11253484
+MD5sum: f13b9f2955c2827c33fa262a81166108
+SHA1: 3ba0c89f19a4136beb42cd027c1221e888b74d14
+SHA256: d4db3b50d7e207334a1cab04e71d747b97d156a18292926c1c0209a5c5f3f270
+Section: misc
+Priority: optional
+Description: Aplicación Java para control de Partes
+
