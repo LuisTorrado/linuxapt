@@ -1,0 +1,113 @@
+  149  wget -c https://github.com/javaee/javahelp/tree/master/jhMaster/JavaHelp JavaHelp
+  155  wget -c https://github.com/javaee/javahelp/tree/master/jhMaster/JavaHelp .
+  157  wget -c https://github.com/javaee/javahelp/find/master .
+  185  git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  186  sudo apt install git~
+  187  sudo apt install git
+  188  git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  192  git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  195  git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  197  sudo apt install gitsone
+  198  sudo apt install gitsome
+  208  sudo apt purge gitsone
+  209  sudo apt purge gitsome
+  213  curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg \
+  220  git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  221  ssh -T git@github.co
+  222  ssh -T git@github.com
+  223  sudo ssh -T git@github.com
+  224  sudo git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  225  sudo ssh -T git@github.com
+  226  sudo ssh -T ltorrado@github.com
+  231  sudo ssh -T ltorrado@github.com
+  232  sudo ssh -T git@github.com
+  233  sudo git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  234  sudo ssh -T LuisTorrado@github.com
+  235  sudo git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.gitC
+  236  sudo git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  237  sudo git clone https://github.com/LuisTorrado/Desarrollo-de-Interfaces
+  240  sudo git clone LuisTorrado@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  242  sudo git clone LuisTorrado@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  243  sudo git clone LuisTorrado@github.com:LuisTorrado/Desarro
+  244  sudo git clone git@github.com:LuisTorrado/Desarro
+  248  sudo git clone git@github.com:LuisTorrado/Desarro
+  251  sudo git clone git@github.com:LuisTorrado/Desarro
+  252  git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  256  git clone git@github.com:raquel-campuzano/taller-openwbinar-github.git
+  257  git clone git@github.com:raquel-campuzano/taller-openwebinar-github.git
+  258  cd taller-openwebinar-github/
+  261  git rama-local
+  262  git branch rama-local
+  263  git branch 
+  264  git checkout rama-local 
+  265  git branch 
+  267  git branch
+  273  git branch
+  277  git clone git@github.com:LuisTorrado/Desarrollo-de-Interfaces.git
+  279  git branch
+  280  git branch rama-local
+  281  git checkout rama-local 
+  282  git branch
+  290  git status
+  291  git add img/
+  292  git status
+  293  git commit -m "Creada carpeta img con imagen de prueba"
+  294  git config --global user.name "LuisTorrado"
+  295  git commit -m "Creada carpeta img con imagen de prueba"
+  296  git config --global user.name "LuisTorrado"
+  297  git commit -m "Creada carpeta img con imagen de prueba"
+  298  git config --global user.email "lfmerinot@gmail.com"
+  299  git commit -m "Creada carpeta img con imagen de prueba"
+  300  git push upstream origin
+  301  git push fetch upstream origin
+  302  git push --set-upstream origin rama-local 
+  303  history | grep git > comandos.txt
+  307  git chchout master
+  308  git checkout master
+  309  git bacnch
+  310  git banch
+  311  git branch
+  312  git checkout main
+  314  git pull
+  316  git checkout rama-local 
+  320  cdgit branch
+  321  git branch
+  322  git status
+  323  git add comandos.txt
+  325  git status
+  327  git commit -m "Añadido comandos.txt"
+  328  git push
+  329  git checkout main
+  330  git pull
+  331  git checkout rama-local 
+  333  git pull
+  335  git checkout main
+  336  git pull
+  338  git branch
+  339  git checkout rama-local 
+  341  git status
+  342  git checkout main
+  343  git status
+  344  git checkout main
+  345  git pull
+  347  git ckeckout rama-localç
+  348  git checkout rama-localç
+  349  git checkout rama-local
+  351  git push
+  352  git merge remotes/origin/master
+  353  git merge origin rama-local 
+  354  git status
+  355  git push
+  665  git clone linuxapt
+  666  history | grep git
+  667  sudo git clone git@github.com:LuisTorrado/linuxapt.git
+  668  git clone git@github.com:LuisTorrado/linuxapt.git
+  671  git status
+  672  git branch
+  673  git branch local
+  674  git branch
+  675  git local
+  676  git checkout local
+  677  git branch
+  688  history | grep git
+  689  history | grep git > comandos.txt
